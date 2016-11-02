@@ -3,7 +3,7 @@
 This repository contains the HTML source code and additional resources for a
 presentation that I, [Gregory M.
 Kapfhammer](http://www.cs.allegheny.edu/sites/gkapfham), gave during a panel at
-Quiqley Town Hall hosted by the Journalism in the Public Interest Program and
+Quigley Town Hall hosted by the Journalism in the Public Interest Program and
 the Center for Political Participation at Allegheny College. The presentation's
 source code uses the [reveal.js](https://github.com/hakimel/reveal.js/)
 framework to control the display of each slide. I have developed a custom theme
